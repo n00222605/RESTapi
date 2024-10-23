@@ -1,0 +1,11 @@
+finished user login
+made departments table
+
+->php artisan make:resource DepartmentResource
+
+Slide 39: finish DepartmentController - public function show
+-> Finish show function ^
+
+Moved onto building Employee table
+->Finished creating Employye table
+-->Complete 1toMany in employee table (Add Department id to employee table)
